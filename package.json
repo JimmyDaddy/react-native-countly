@@ -1,0 +1,27 @@
+{
+  "name": "react-native-countly",
+  "version": "1.0.0",
+  "description": "a countly RN SDK ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimmyDaddy/react-native-countly.git"
+  },
+  "keywords": [
+    "countly",
+    "react-native"
+  ],
+  "author": "jimmydaddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimmyDaddy/react-native-countly/issues"
+  },
+  "homepage": "https://github.com/JimmyDaddy/react-native-countly#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "react-native-fs": "^2.0.1-rc.2"
+  }
+}
